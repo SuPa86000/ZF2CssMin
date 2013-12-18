@@ -1,20 +1,19 @@
 {
-	"name": "natxet/cssmin",
-	"description": "Minifying CSS",
-	"keywords": ["css","minify"],
-	"homepage": "http://code.google.com/p/cssmin/",
-	"license": "MIT",
-	"authors": [
-		{
-			"name": "Joe Scylla",
-			"email": "joe.scylla@gmail.com",
-			"homepage": "https://profiles.google.com/joe.scylla"
-		}
-	],
-	"require": {
-		"php": ">=5.0"
-	},
-	"autoload": {
-		"classmap": ["src/"]
-	}
+    "name": "supa86000/zf2-css-min",
+    "description": "Minifying CSS",
+    "keywords": ["css","minify"],
+    "homepage": "http://www.supa-creation.com/",
+    "authors": [
+        {
+            "name": "QUINTARD Thibaud",
+            "email": "contact@supa-creation.com",
+            "homepage": "http://www.supa-creation.com/"
+        }
+    ],
+    "require": {
+            "php": ">=5.0"
+    },
+    "autoload": {
+        "classmap": ["src/"]
+    }
 }
